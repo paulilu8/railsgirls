@@ -58,4 +58,5 @@ root :to => redirect('/ideas')
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+  mount Commontator::Engine => '/commontator'
 end

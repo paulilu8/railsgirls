@@ -41,3 +41,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'carrierwave'
 
 gem 'devise'
+
+gem 'commontator', '~> 4.10.0'
